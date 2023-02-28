@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyanjanaSaha
-- 👀 I’m interested in Competitive Coding and graphic designing
+- 👀 I’m interested in AIML and AR VR
 - 🌱 I’m currently learning HTML,CSS and JS
 - 📫 How to reach me at priyanjanasaha2003@gmail.com
 
